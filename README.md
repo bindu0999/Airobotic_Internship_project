@@ -1,4 +1,4 @@
-### Project name : Diabetes Prediction for pregnant with Logistic Regression
+### Project name : IRIS FLOWER CLASSIFICATION USING KNN ALGORITHM
 #### Developed by : Bindushree N ( 1SK18CS413 )
 
 ### Need python modules :
