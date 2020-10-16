@@ -1,5 +1,5 @@
 ### Project name : Diabetes Prediction for pregnant with Logistic Regression
-#### Developed by : Dhanya hM ( 1SK18CS408 )
+#### Developed by : Bindushree N ( 1SK18CS413 )
 
 ### Need python modules :
 #### pip install numpy
@@ -10,8 +10,9 @@
 #### pip install scikit-learn
 
 ### To run the app :
-#### (venv) C:\Users\Dhanya HM\Desktop\Airobotic_Internship_project>python diabetes_prediction_app.py"
+#### (venv) C:\Users\Bindushree N\Desktop\Airobotic_Internship_project>iris_classification.py
 
 ### App interface :
-![alt text](https://github.com/dhanya2311/Airobotic_Internship_project/blob/master/output/image-1.JPG)
-![alt text](https://github.com/dhanya2311/Airobotic_Internship_project/blob/master/output/image-2.JPG)
+![alt text](https://github.com/bindu0999/Airobotic_Internship_project/blob/master/output/Capture-1.JPG)
+![alt text](https://github.com/bindu0999/Airobotic_Internship_project/blob/master/output/Capture-2.JPG)
+![alt text](https://github.com/bindu0999/Airobotic_Internship_project/blob/master/output/Capture-3.JPG)
