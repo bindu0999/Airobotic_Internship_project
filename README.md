@@ -1,5 +1,5 @@
 ### Project name : IRIS FLOWER CLASSIFICATION USING KNN ALGORITHM
-#### Developed by : Bindushree N ( 1SK18CS413 )
+#### Developed by : Bindushree N ( 1SK18CS403 )
 
 ### Need python modules :
 #### pip install numpy
